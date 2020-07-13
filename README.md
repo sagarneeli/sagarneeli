@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 
 <h2> Hi, I'm Sagar Neeli! <img src="https://i.pinimg.com/originals/31/e9/ea/31e9ea5a4488d3ed0e10f06298561c28.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/3C5GiCUkah8Gs/giphy.gif" width="230">
-<p><em>Senior Software Enginner at <a href="http://www.wayfair.com">Wayfair </a><img src="https://media.giphy.com/media/McgGbDIhBpVnA7SThC/giphy.gif" width="20"></br>
+<p><em>Senior Software Engineer at <a href="http://www.wayfair.com"></a><img src="https://media.giphy.com/media/McgGbDIhBpVnA7SThC/giphy.gif" width="15"></br>
 </em></p>
 
-[![Twitter: SagarNeeli](https://img.shields.io/twitter/follow/NeeliSagar?style=social)](https://twitter.com/NeeliSagar)
 [![Linkedin: sagarneeli](https://img.shields.io/badge/-sagarneeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagarneeli/)](https://www.linkedin.com/in/sagarneeli/)
-[![GitHub Sagar Neeli](https://img.shields.io/github/followers/sagarneeli?label=follow&style=social)](https://github.com/sagarneeli)
 
 
 ### <img src="https://media.giphy.com/media/QeVduzihVX69y/giphy.gif" width="50"> A little more about me...  
